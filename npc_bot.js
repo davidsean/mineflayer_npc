@@ -1,8 +1,7 @@
 
 const mineflayer = require('mineflayer')
 const MAIN_PLAYER = 'ErfernoSimp'
-const HOST = 'soyaaaaa.aternos.me'
-//const HOST = '185.116.156.173'
+const HOST = 'localhost'
 const v = require('vec3');
 
 
