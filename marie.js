@@ -11,5 +11,11 @@ conversation = {
     engage_leave_trigger : 'bye babye ciao a+',
 }
 
+spawn_coords = {
+    x:8,
+    y:64,
+    z:-30,
+}
+
 let marie = new NPC_bot('Marie', conversation);
 

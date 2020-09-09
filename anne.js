@@ -1,7 +1,7 @@
 const NPC_bot = require('./npc_bot.js')
 
 conversation = {
-    engage_trigger : 'allo bonjour salut salutation salutations hey yo',
+    engage_trigger : 'allo bonjour salut salutations hey yo',
     engage_response : 'Allo',
     engage_name : 'Je m\'apelle.. Hic!... McGonigle.',
     engage_job : ' Hic!.. J\'aime le vin!... Hic! Ils m\'ont mis ici car j\'en buvais trop!',
@@ -11,5 +11,11 @@ conversation = {
     engage_leave_trigger : 'bye babye ciao a+',
 }
 
-let anne = new NPC_bot('Anne',conversation);
+spawn_coords = {
+    x:8,
+    y:64,
+    z:-30,
+}
+
+let anne = new NPC_bot('Anne', conversation, spawn_coords);
 
