@@ -10,4 +10,5 @@ McGonnigle a peur des bibittes, et va distraire le Garde si tu reussi a place un
 Une fois que McGonnigle est en etat de panique, le garde va partir, et tu pourras ouvrire la porte de la prison.
 
 
-
+# Partie 2: Le Village
+blabla
