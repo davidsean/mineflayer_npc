@@ -1,4 +1,4 @@
-# partie 1: la prison
+# Partie 1: La Prison
 Il a trois NPC dans la prison: `Mcgonigle`, le `Garde`et le `Girard`.
 
 Pour sortir de la prison, il faut appuyer sur un bouton, mais le Garde te l'empeche.
